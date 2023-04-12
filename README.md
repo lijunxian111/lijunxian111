@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello Everyone 👋
+### I am an undergraduate student in Xi'an Jiaotong University, major in CS.
+### 🔭 I’m currently working on Reinforcement Learning and GNN.
+### 📫 How to reach me: School mail: ljx201806@stu.xjtu.edu.cn QQ mail: 1713546501@qq.com
+### ⚡ Fun fact: I'm in loving with my follower!
 
 <!--
 **lijunxian111/lijunxian111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
