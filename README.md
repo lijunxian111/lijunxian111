@@ -1,7 +1,8 @@
 ### Hello Everyone 👋
-### I am an undergraduate student in Xi'an Jiaotong University, major in CS.
-### 🔭 I’m currently working on Reinforcement Learning and GNN.
-### 📫 How to reach me: School mail: ljx201806@stu.xjtu.edu.cn QQ mail: 1713546501@qq.com
+### I am a postgraduate student in Shanghai Jiaotong University, major in CS.
+### 🔭 I’m currently working on AI security and LLMs' application.
+### 👯 I’m looking to collaborate on GNN or LLM.
+### 📫 How to reach me: School mail: lijunxian0531@sjtu.edu.cn, ljx201806@stu.xjtu.edu.cn QQ mail: 1713546501@qq.com
 ### ⚡ Fun fact: I'm in loving with my follower!
 
 <!--
