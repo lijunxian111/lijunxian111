@@ -1,5 +1,5 @@
 ### Hello Everyone 👋
-### I am a postgraduate student in Shanghai Jiaotong University, major in CS.
+### I am a master student in Shanghai Jiaotong University, major in CS.
 ### 🔭 I’m currently working on AI security and LLMs' application.
 ### 👯 I’m looking to collaborate on GNN or LLM.
 ### 📫 How to reach me: School mail: lijunxian0531@sjtu.edu.cn, ljx201806@stu.xjtu.edu.cn gmail: ljx201806@gmail.com QQ mail: 1713546501@qq.com
